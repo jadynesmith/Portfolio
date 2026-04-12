@@ -8,7 +8,7 @@
     </head>
     <body>
         <p>
-            Welcome to my portfolio website!
+            Welcome to my .php portfolio website!
         </p>
     </body>
 </html>
