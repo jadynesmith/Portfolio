@@ -9,6 +9,8 @@
     <body>
         <p>
             Welcome to my .php portfolio website!
+
+            Below is a list of my portfolio projects:
         </p>
     </body>
 </html>
